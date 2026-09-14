@@ -10,7 +10,7 @@
 
 <a href="mailto:amirhosein.karimiam@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=flat-square&logo=gmail&logoColor=cccccc" /></a>&nbsp;
 <a href="https://lunotech.ir" target="_blank"><img src="https://img.shields.io/badge/-LUNOTECH.IR-000000?style=flat-square&logo=googlechrome&logoColor=cccccc" /></a>&nbsp;
-<a href="LINKEDIN_LINK_خودت" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=cccccc" /></a>
+<a href="https://www.linkedin.com/in/amir-karimi1386/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=cccccc" /></a>
 
 </div>
 
